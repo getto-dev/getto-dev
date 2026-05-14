@@ -72,8 +72,5 @@
 
 ---
 
-<div align="center">
-
-⭐️ Спасибо за визит! Заглядывайте в [репозитории](https://github.com/getto-dev?tab=repositories) — там много полезного.
 
 </div>
