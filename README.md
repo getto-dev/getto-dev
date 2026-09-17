@@ -32,7 +32,7 @@ PWA-калькулятор для составления, расчёта и вы
 
 PWA-справочник с каталогом культур, информацией по выращиванию и уходу, статьями и поиском.
 
-[**GitHub**](https://github.com/getto-dev/garden)
+[**Открыть приложение**](https://getto-dev.github.io/garden/) · [**GitHub**](https://github.com/getto-dev/garden)
 
 ---
 
