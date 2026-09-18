@@ -36,7 +36,7 @@ PWA-прайс-лист с каталогом услуг и ценами, кот
 
 Chrome-расширение для отображения закладок на новой вкладке браузера.
 
-[**GitHub**](https://github.com/getto-dev/home-page)
+[**GitHub**](https://github.com/getto-dev/chrome-page)
 
 ---
 
